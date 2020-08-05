@@ -5,3 +5,5 @@
 #### If any of the assistants are degrading the configurations management will notify us and we can prevent errors before they occuror even replace the server if needed. The management system holds the entire historical data of your infrastructure.
 
 #### It documents all the snapshots of the infrastructure. So overall the configuration management infrastructure facilitates the orderly management of your system information and system changes so tht it can use it for beneficial purposes.
+
+#### Ansible -Configuration Management, Deployment & Orchestration tool. Automates the whole IT infrastructure(Automates the Cloud and IT process)-has 150 modules are customizable.
